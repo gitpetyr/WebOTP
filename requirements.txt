@@ -1,4 +1,7 @@
 # requirements.txt
 
+asgiref==3.8.1
+Django==5.1.4
 setuptools==75.6.0
+sqlparse==0.5.3
 wheel==0.45.1
